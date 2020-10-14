@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Week 3 Homework</title>
+</head>
+<body>
+
+<h1>Welcome</h1>
+<h2>Introduction</h2>
+
+<body>Hi. My name's Zareen and this is my experimental website for course module <strong>SML5205.</strong></body>
+
+<p>Here are three things about me:</p>
+
+<ol>
+  <li>My favourite food is potato</li>
+  <li>I study Spanish</li>
+  <li>I love to dance</li>
+</ol> 
+
+<p>One of my favorite language learniing websites is <a href="https://www.duolingo.com/">Duolingo</a>.</p>
+
+<hr>
+<p>Last updated: 14<sup>th</sup> October 2020.</p>
+
+</body>
+</html>
